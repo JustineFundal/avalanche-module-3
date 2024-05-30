@@ -15,14 +15,17 @@ Minting: Only the owner can mint new tokens.
 Burning: Owner can burn tokens but must retain a minimum balance.
 Transfers: Standard ERC-20 token transfers.
 Configuration: Owner can set the minimum burn balance.
+
 Usage
 Deploy: Deploy with the owner's address.
 Mint: Owner mints tokens to their address.
 Burn: Owner burns tokens ensuring a minimum balance.
 Transfer: Use the standard ERC-20 transfer function.
 Configure: Owner can set the minimum owner burn balance.
+
 License
 MIT License
+
 authors 
 creator: Justine Felix V. Fundal
 email: 8213339@ntc.edu.ph
