@@ -3,10 +3,13 @@ Token Smart Contract
 This repository contains an ERC-20 token contract with custom minting, burning, and owner-specific restrictions.
 
 Contract Details
+
 License
 SPDX License Identifier: MIT
+
 Solidity Version
 Version: ^0.8.25
+
 Imports
 OpenZeppelin ERC-20: @openzeppelin/contracts/token/ERC20/ERC20.sol
 
